@@ -4,7 +4,7 @@
 
 ```bash
 git clone https://github.com/ahosnyyy/cv-summer-training-ITI
-cd cv-course-ITI/01-opencv-primer
+cd cv-summer-training-ITI/01-opencv-primer
 ```
 
 ### Conda
